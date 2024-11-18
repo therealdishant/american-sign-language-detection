@@ -48,7 +48,7 @@ Despite achieving high accuracy and efficiency, the system faces challenges unde
 1. Clone the Repository:
 
 ```
-
+git clone https://github.com/therealdishant/american-sign-language-detection.git
 ```
 
 3. Install Dependencies:
